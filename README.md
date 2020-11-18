@@ -3,7 +3,7 @@ Final Project for CMSC-21800
 ## Getting Started
 Make sure you have jupter notebook [installed](https://jupyter.org/install)
 
-Make sure you have the [dataset](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present-Dashboard/5cd6-ry5g) installed locally in the same repo. Note that the original dataset is massive so make sure to export after filtering the data. 
+Make sure you have the [dataset](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present-Dashboard/5cd6-ry5g) installed locally in the same repo. Note that the original dataset is massive so make sure to export after filtering the data to the years you want (for testing, I filtered to just 2019 data). 
 
 Run `jupter notebook project.ipynb`
 
